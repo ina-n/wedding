@@ -1,0 +1,60 @@
+.border {
+	border: 2px solid #deddda;
+	border-radius:  5px;
+	background: #fff;
+}
+
+
+.left-box {
+	width: 400px;
+	float: left;
+	margin-right: 30px;
+}
+
+.right-box {
+	width: 530px;
+	float: left;
+}
+
+.ribbon-banner {
+	padding: 50px 0;
+
+	width: 380px;
+	margin: 0 auto;
+	position: relative;
+
+}
+
+.ribbon-banner h2 {
+	
+	font-size: 33px;
+	position: absolute;
+	top: 70px;
+	left: 100px;
+	font-family: "Gruppo", cursive;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	
+}
+
+
+.small-ribbon-banner {
+	margin: 0 auto;
+	width: 260px;
+	
+	padding: 50px 0;
+	position: relative;
+}
+
+.small-ribbon-banner h2 {
+	
+	font-size: 33px;
+	position: absolute;
+	top: 70px;
+	left: 85px;
+	font-family: "Gruppo", cursive;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+}

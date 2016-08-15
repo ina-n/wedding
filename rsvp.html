@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<head>
+	<title>John & Jane || RSVP</title>
+<!-- CSS links -->	
+<link rel="stylesheet"  href="css/reset.css">
+<link rel="stylesheet" href="css/style.css">
+<link href='http://fonts.googleapis.com/css?family=Oswald|Gruppo|Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!-- Javascript links-->
+<!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js"></script>
+  <![endif]-->
+
+</head>
+<body id="rsvp">
+	<div class="wrap">
+	<header class="header cf">
+		<div class="header__logo">
+			<h1>John<span> & </span>Jane</h1>
+			<p class="header__weddingDate">August 21st, 2012. Green Garden Palace.</p>
+		</div>
+
+		<div class="header__social">
+			
+			<a href="" ><i class="fa fa-twitter fa-lg twitter"></i></a>
+			
+			<a href=""><i class="fa fa-facebook fa-lg facebook"></i></a>
+		</div>
+
+	</header>
+
+	<nav class="navigation cf">
+		<ul class="cf">
+			<li class="nav-hom"><a href="index.html">Home</a></li>
+			<li class="nav-story"><a href="story.html">Our Story</a></li>
+			<li class="nav-cerem"><a href="ceremony.html">Ceremony</a></li>
+			<li class="nav-gift"><a href="gifts.html">Gifts</a></li>
+			<li class="nav-rsvp"><a href="rsvp.html">Rsvp</a></li>
+			<li class="nav-gall"><a href="gallery.html">Gallery</a></li>
+		</ul>
+ </nav>
+
+ <section class="content cf">
+
+ <div class="small-ribbon-banner">
+ 	<img src="images/small-ribbon.png">
+ 	<h2>RSVP</h2>
+	</div>
+
+
+<div class="left-box">
+	<h2 class="grey-heading">Rsvp Right here</h2>
+	<p>Maecenas porta nulla eget eros pharetra ullamcorper. Maecenas tortor erat, egestas id viverra non, volutpat at nunc. Donec luctus, nisi vitae semper fermentum, lorem libero elementum justo, ac congue leo augue eget erat. Phasellus quis diam eu turpis vehicula fringilla a et orci. </p>
+
+	
+</div>
+
+<div class="right-box ">
+	<form method="post"  id="rsvp-form" class="border cf" >
+		<p class="contact-info">
+			<input type="text" id="first-name" name="firstName" placeholder="* First Name">
+
+
+		</p>	
+
+			<p class="contact-info">
+			<input type="text" id="last-name" name="lastName" placeholder="Last Name">
+
+		</p>	
+
+			<p class="contact-info">
+			<input type="tel" id="phone" name="phone" placeholder="Phone Number">
+
+		</p>	
+
+			<p class="contact-info">
+			<input type="email" id="email" name="email" placeholder="Email Address">
+
+		</p>	
+
+		<p class="grey-bg attend">
+			<input type="radio" name="attending" value="yes">Yes, I'm attending
+			<input type="radio" name="attending" value="no">No, I'm not attending
+		</p>
+		
+		<p><span id="errorMessage"></span></p>
+		<p class="no-borders">
+		<input type="submit" id="submit" class="orange-button no-border" value="Submit" >
+		</p>
+		
+	</form>
+	
+</div>			
+
+</section>	
+<footer class="footer">
+	<p>Wedding day may come and go, but our love forever grow!</p>
+</footer>
+</div>
+
+<script src="js/main.js"></script>
+	
+
+</body>
+</html>

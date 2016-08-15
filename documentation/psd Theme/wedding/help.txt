@@ -1,0 +1,78 @@
+Wedding - Creative PSD Template for Wedding Websites
+
+Thank you for purchasing my theme. If you have any questions, please feel free to contact me via email social@bestwebsoft.com. Thanks!
+
+
+Description:
+
+What is Wedding?
+Wedding is a modern and clean PSD template consisted with 10 PSD files. All layers are organized properly, so it takes you a moment to find necessary layer and edit it.
+It was designed as a wedding website. 
+
+If you are planning your wedding our template will be the best solution for your website. You can store information about wedding location, receive RSVP data from your friends and family, create beautiful gallery with images. Wedding template is a great tool, which should be used for memories keeping.
+
+We would like to thank you for your purchase and hope that you will enjoy using of our product. Cheers!
+
+
+Features:
+
+- 10 PSD files
+- unique and clean design
+- help file included
+- organized and layered PSD templates
+- 960px layout width
+- free fonts used
+- free icons used
+- multiple colors
+
+
+Pages:
+
+- home
+- home (single)
+- home (mobile)
+- our story
+- ceremony
+- gifts
+- rsvp
+- gallery
+- blog
+- post
+
+
+Additional elements:
+
+- map popup
+- featured images popup
+
+
+Fonts:
+
+Bebas Neue
+Ubuntu
+Copperplate
+Gruppo
+
+
+Preview images:
+
+All images from the preview files are provided by Katsu Nojiri.
+Link: http://www.flickr.com/photos/79992579@N07/
+
+
+Questions:
+
+== How to add images and how to use clipping mask. ==
+1) I have used clipping mask option for inserting images into certain locations (to the blocks with rounded corners). Why? Because it is pretty easy and you do not need to cut the source image.
+However, if you'll need to add new images into the theme, please follow the instructions below:
+1) Open any PSD file which contains images (for example, thumbnails on portfolio or blog page)
+2) Make sure that 'Auto-select' (located at the top left corner of software window) is active and selected box says "Layer".
+3) Click to the image which you would like to remove or replace with another image.
+4) You will see folder of this element with all available layers at the bottom right corner of your software window (layers panel). It is possible that layer with "thumb" or "img" name will be active.
+5) You will see an arrow which is pointing to the layer below. The layer with an arrow is a clipping mask layer. You need to create the same one for your new image.
+6) Create new layer and drag or paste your image to it. 
+7) Make sure that this new layer with your image is located above the "thumb" or "img" layer (old image layer).
+8) Click to the new layer with image (using right mouse button) and you'll see a menu. Choose 'Create Clipping Mask'.
+9) Now you can delete the old layer and setup location of your image. It will be located within the borders of the bottom element.
+
+More detailed information about masking layers can be found here: http://helpx.adobe.com/photoshop/using/masking-layers.html
