@@ -425,6 +425,7 @@ h2.grey-heading  {
 	font-family: "Gruppo", cursive;
 	color: #fff;
 	text-transform: uppercase;
+	font-weight: bold;
 }
 
 .small-ribbon-banner {
@@ -573,19 +574,24 @@ Ceremony.html
 	
 	}
 
+.ceremony_location li {
+	position: relative;
+	margin-bottom: 15px;
+}	
+
 .ceremony_location i {
-	padding-right: 10px;
+	position: absolute;
+
 }
 
-.ceremony_location li:nth-child(1) {
-	
-	padding: 10px 0;
+
+.ceremony_location span {
+	position: relative;
+	left: 28px;
 }
 
-.ceremony_location li:nth-child(3) {
-	padding-left: 15px;
-	padding-bottom: 10px;
-}
+
+
 #map-canvas {
 	width: 500px;
 	height: 300px;
@@ -601,7 +607,7 @@ story.html
 .timeline {
 	
 	position: relative;
-	margin-bottom: 400px;
+	
 	
 	
 	
